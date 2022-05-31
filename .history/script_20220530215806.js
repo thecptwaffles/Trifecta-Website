@@ -12,5 +12,5 @@ MinecraftAPI.getServerStatus('play.wafflecraft.xyz', {
     }
 
     // you can change these to your own message!
-    serverOnline.innerHTML = status.online ? 'Online' : 'offline';
+    serverOnline.innerHTML = status.online ? 'up' : 'down';
 });

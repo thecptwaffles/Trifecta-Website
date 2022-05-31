@@ -1,0 +1,1 @@
+src = "https://mcapi.us/scripts/minecraft.min.js"
